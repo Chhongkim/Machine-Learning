@@ -1,4 +1,4 @@
-# How to fix Router-on-a-strick
+# Face Recognition
 
 <img width="1201" height="750" alt="image" src="https://github.com/user-attachments/assets/e87b6f32-8c4a-4797-8997-5778b18400ca" />
 
